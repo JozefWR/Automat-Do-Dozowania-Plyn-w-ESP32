@@ -20,7 +20,6 @@ Programowanie mikrokontrolera ESP32 odbywa się przez Arduino IDE. Kod źródło
 
 ## Zdjęcia i rysunki
 
-W repozytorium należy dodać następujące zdjęcia:
 - ![GotowyPrototyp](https://github.com/JozefWR/Automat-Do-Dozowania-Plyn-w-ESP32/assets/166382259/6b82a3e5-8fb9-43f4-ae07-17cd6abe718a) - zdjęcie gotowego prototypu urządzenia.
 - ![SchematKomunikacji](https://github.com/JozefWR/Automat-Do-Dozowania-Plyn-w-ESP32/assets/166382259/98823d01-63ec-4637-b4b8-d46273226565)- schemat komunikacji.
 - ![SchematPłytkiPCB](https://github.com/JozefWR/Automat-Do-Dozowania-Plyn-w-ESP32/assets/166382259/238f7fb2-c309-472e-9536-75cad8c688bf) - schemat elektroniczny płytki PCB.
